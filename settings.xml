@@ -142,7 +142,6 @@ under the License.
       <passphrase>optional; leave empty if not used.</passphrase>
     </server>
     -->
-	<servers>
 		<server>
 			<id>github</id>
 			<username>USERNAME</username>
